@@ -1,2 +1,2 @@
-class PostsController <
+class PostsController < ActionController::Base
 end
